@@ -2,11 +2,11 @@
 
 To host on ECS: 
 
-1. **ECR Steps**
+1. **ECR**
 - Create ECR reopository
 - Build the image and push to ECR
 
-2. **ECS Steps**
+2. **ECS**
 - Create VPC Cluster 
 - Create a service, provide port mapping for container
 - Update the security group (Inbound rules)
