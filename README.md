@@ -11,5 +11,5 @@ To host on ECS:
 - Create a service, provide port mapping for container
 - Update the security group (Inbound rules)
 
-3. API Gateway
+3. **API Gateway**
 - WIP
