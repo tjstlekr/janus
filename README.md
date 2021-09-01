@@ -1,5 +1,4 @@
-# janus-gateway
-Host Janus using docker. Supports  boringSSL, Data channel, and basic plugin support. 
+# Host Janus using docker. Supports boringSSL, Data channel, and Textroom and other basic plugin support. 
 
 To host on ECS: 
 
@@ -14,4 +13,3 @@ To host on ECS:
 
 3. API Gateway
 - WIP
-
